@@ -2,3 +2,5 @@
 
 
 The Maven with Travis
+
+By Renato Seixas
